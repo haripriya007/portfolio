@@ -68,7 +68,7 @@ export default function Hero() {
           <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 16 }}>
             <div className="hero-avatar" style={{ overflow: 'hidden', fontSize: 'unset' }}>
               <img
-                src="./profile.jpg"
+                src="/profile.jpg"
                 alt="Haripriya M — Principal Software Engineer"
                 style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center top' }}
                 onError={e => { e.target.style.display = 'none'; e.target.parentElement.textContent = '👩‍💻'; }}
