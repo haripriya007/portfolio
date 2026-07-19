@@ -47,7 +47,7 @@ const SKILLS = [
   {
     cat: 'Frontend',
     icon: '🎨',
-    tags: ['React (Basic)', 'REST API Integration', 'Dashboard Integration'],
+    tags: ['React.js', 'REST API Integration', 'Dashboard Integration'],
   },
   {
     cat: 'Collaboration & Tools',

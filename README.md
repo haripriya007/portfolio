@@ -31,7 +31,7 @@ Personal portfolio website showcasing 8+ years of experience in Python backend e
 | DevOps | Docker · Kubernetes · Jenkins · GitHub Actions · CI/CD |
 | Security | OAuth 2.0 · JWT · API Gateway · RBAC |
 | Testing | Pytest · Unittest · TDD |
-| Frontend | React (Basic) |
+| Frontend | React.js|
 | Other | Machine Learning · Agile/Scrum · Microservices |
 
 ---
